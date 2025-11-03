@@ -3,7 +3,7 @@
   "scripts": {
     "start": "node server.js",
     "test": "mocha --exit",
-    "lint": "eslint --config eslint.config.mjs . --ext .js"
+    "lint": "eslint ."
   },
   "name": "Panharanith-heng-lab1",
   "version": "1.0.0",
